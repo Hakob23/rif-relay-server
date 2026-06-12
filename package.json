@@ -104,6 +104,7 @@
     "@types/cors": "^2.8.13",
     "@types/express": "^4.17.15",
     "@types/mocha": "^10.0.1",
+    "@types/nedb": "^1.8.12",
     "@types/node": "^18.11.18",
     "@types/sinon": "^10.0.13",
     "@types/sinon-chai": "^3.2.9",
